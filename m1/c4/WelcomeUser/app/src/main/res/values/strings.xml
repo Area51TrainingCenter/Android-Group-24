@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Welcome User</string>
+
+    <string name="instructions">Hola, ingresa tu nombre completo.</string>
+    <string name="hint_name">Nombre completo.</string>
+    <string name="button_show_welcome">Mostrar Bienvenida</string>
+    <string name="welcome_message">¡Hola %s!</string>
+    <string name="button_dismiss_welcome">Gracias</string>
+</resources>
