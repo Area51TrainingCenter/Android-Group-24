@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Threads</string>
+
+    <string name="progress_title">Please wait</string>
+    <string name="progress_content">Processing</string>
+    <string name="execute_on_main_thread">Execute on UI thread</string>
+    <string name="execute_on_worker_thread">Execute on worker thread</string>
+    <string name="execute_on_asynctask">Execute on AsyncTask</string>
+    <string name="execute_on_customexecutor">Execute on CustomExecutor</string>
+</resources>
