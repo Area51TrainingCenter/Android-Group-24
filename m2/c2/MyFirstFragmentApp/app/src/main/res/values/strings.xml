@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My First Fragment App</string>
+
+    <string name="instructions">¡Hola, ingresa tu nombre!</string>
+    <string name="hint_full_name">Nombre completo.</string>
+    <string name="button_show_welcome">Mostrar Saludo</string>
+</resources>
