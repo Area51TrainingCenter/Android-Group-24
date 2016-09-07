@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">User Registration MVP</string>
+
+    <string name="instructions">Hola, ingresa tus datos.</string>
+    <string name="hint_firstname">Nombres.</string>
+    <string name="hint_lastname">Apellidos.</string>
+    <string name="hint_email">Correo.</string>
+    <string name="register">Registrar</string>
+    <string name="registration_initiated">Registrando&#8230;</string>
+    <string name="registration_finished">Registro completado!</string>
+    <string name="welcome_message">Hola %1$s, se envió un mensaje de confirmación al correo %2$s ¡Bienvenido!</string>
+</resources>
